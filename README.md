@@ -3,4 +3,4 @@ Designed a story of google play store sample DataSet, Cleaned Data, Prepared Dat
 
 1 - Now you have a recommendation engine at any category you want to get a google play app from.
 
-2- You can check the rating of this app and how many reviews this rating is based on to check the level of credibility and confidentiality
+2- You can check the rating of this app and how many reviews this rating is based on to check the level of credibility and confidentiality.
